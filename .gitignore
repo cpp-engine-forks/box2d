@@ -5,3 +5,15 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+# Atom-specific
+# Directories
+bin/
+bin-int/
+
+ # Files
+Makefile 
+
+# Visual Studio files and folder
+*.sln
+*.vcxproj*
